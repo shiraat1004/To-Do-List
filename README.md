@@ -1,0 +1,1 @@
+This is a simple To-Do List application built using Python's tkinter for the graphical user interface (GUI). It allows users to manage tasks, add new tasks, mark tasks as complete, and delete tasks. The task data is saved to and loaded from a JSON file to ensure persistence.
